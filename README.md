@@ -16,7 +16,7 @@
 The 3D-Drone landing page aims to provide an immersive experience for visitors, highlighting the advanced capabilities of the featured drone. The site includes interactive 3D models, detailed specifications, and engaging visuals to attract and inform potential customers.
 
 ### Preview
-![](/public/boardtodo.png)
+![](/public/drone.png)
 
 ### Links
 
