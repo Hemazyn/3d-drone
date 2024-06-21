@@ -59,6 +59,6 @@ This will launch Vite and serve the project at http://localhost:3000
 - Twitter - [@imanuel_tofunmi](https://twitter.com/imanuel_tofunmi)
 
 ### Acknowledgments
-- Special thanks to the creators of [React](https://react.dev) and [Tailwind CSS](https://tailwindcss.com).
+- Special thanks to the creators of [React](https://react.dev), [Tailwind CSS](https://tailwindcss.com) and [ThreeJs](https://threejs.org/).
 
 Feel free to customize the `README.md` as needed to better fit your project specifics and personal preferences.
